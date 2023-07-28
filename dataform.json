@@ -1,0 +1,7 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "sugandhac-477-2023072818013400",
+  "defaultLocation": "us"
+}
